@@ -1,2 +1,2 @@
 # EstudoCSharp
-Repositorio com objetivo de aprofundar meus conhecimento em .net
+Repositorio com objetivo de aprofundar meus conhecimento em C#.
